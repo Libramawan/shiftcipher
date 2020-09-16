@@ -2,7 +2,7 @@
 Nama    : Prayudha Adhitia Libramawan
 NPM     : 140810180008
 Kelas   : B
-Deskripsi : PROGRAM Enkrypt dan Dekrypt menggunakan Kripto Shift Chiper (Caesar Chiper)
+Deskripsi : PROGRAM Enkrypt dan Dekrypt menggunakan Kripto Shift Cipher (Caesar Cipher)
 ***************************************************************************************/
 
 #include <iostream>
@@ -21,7 +21,7 @@ int main()
     {
         cout << "------------------------------------" << endl;
         cout << "-----------= WELCOME TO =-----------" << endl;
-        cout << "------= SHIFT CHIPER PROGRAM= ------" << endl;
+        cout << "------= SHIFT CIPHER PROGRAM= ------" << endl;
         cout << "------------------------------------" << endl;
         cout << "Please choose one between these methods" << endl;
         cout << "\n1. Encryption \n2. Decryption \n What method do you want to choose: ";

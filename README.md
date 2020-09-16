@@ -7,7 +7,7 @@ NPM     : 140810180008
 Kelas   : B
 
 
-Deskripsi : PROGRAM Enkrypt dan Dekrypt menggunakan Kripto Shift Chiper (Caesar Chiper)
+Deskripsi : PROGRAM Enkrypt dan Dekrypt menggunakan Kripto Shift Cipher (Caesar Cipher)
 
 Screenshot hasil:
 
