@@ -7,8 +7,8 @@ NPM     : 140810180008
 Kelas   : B
 
 
-Deskripsi : Fungsi enkripsi menggunakan Shift Chiper
+Deskripsi : PROGRAM Enkrypt dan Dekrypt menggunakan Kripto Shift Chiper (Caesar Chiper)
 
 Screenshot hasil:
 
-![viewHasil](https://user-images.githubusercontent.com/45344469/93303202-557daf00-f825-11ea-91ee-530db122be51.JPG)<Br>
+![viewHasil](https://user-images.githubusercontent.com/45344469/93323980-8074fc80-f83f-11ea-9960-49033b9cb1ee.JPG)<Br>
